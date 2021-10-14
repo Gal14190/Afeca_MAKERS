@@ -1,0 +1,3 @@
+/home/gal/facerec/dlib-19.17.0/build/temp.linux-x86_64-3.8/dlib_build/neon_test_build/CMakeFiles/rebuild_cache.dir
+/home/gal/facerec/dlib-19.17.0/build/temp.linux-x86_64-3.8/dlib_build/neon_test_build/CMakeFiles/edit_cache.dir
+/home/gal/facerec/dlib-19.17.0/build/temp.linux-x86_64-3.8/dlib_build/neon_test_build/CMakeFiles/neon_test.dir
